@@ -25,3 +25,4 @@ C:\Users\Ezizchik\source\repos\Fiorella-homework\Fiorella-homework\obj\Debug\net
 C:\Users\Ezizchik\source\repos\Fiorella-homework\Fiorella-homework\obj\Debug\net6.0\Fiorella-homework.pdb
 C:\Users\Ezizchik\source\repos\Fiorella-homework\Fiorella-homework\obj\Debug\net6.0\Fiorella-homework.genruntimeconfig.cache
 C:\Users\Ezizchik\source\repos\Fiorella-homework\Fiorella-homework\obj\Debug\net6.0\ref\Fiorella-homework.dll
+C:\Users\Ezizchik\source\repos\Fiorella-homework\Fiorella-homework\bin\Debug\net6.0\Fiorella-homework.staticwebassets.runtime.json
